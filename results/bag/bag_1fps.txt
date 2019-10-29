@@ -1,0 +1,3103 @@
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0000.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0000.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0000.jpg (930, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0001.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0001.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0001.jpg (950, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0002.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0002.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0002.jpg (952, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0000.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0000.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0003.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0003.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0003.jpg (934, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0004.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0004.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0004.jpg (930, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0005.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0005.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0005.jpg (921, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0001.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0001.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0006.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0006.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0006.jpg (945, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0007.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0007.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0007.jpg (926, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0008.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0008.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0008.jpg (1039, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0002.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0002.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0002.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0002.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0002.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0002.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0009.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0009.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0009.jpg (641, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0010.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0010.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0010.jpg (504, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0011.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0011.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0011.jpg (810, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0000.jpg: 3000.78296661 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0001.jpg: 3071.56300545 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0002.jpg: 3247.47991562 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0000.jpg.sift: 780.017137527 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0003.jpg: 3083.7688446 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0004.jpg: 3003.08704376 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0005.jpg: 3059.2019558 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0001.jpg.sift: 659.894943237 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0006.jpg: 3101.91297531 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0007.jpg: 3080.70206642 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0008.jpg: 3322.29590416 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0002.jpg.sift: 670.28594017 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0002.jpg.sift: 668.009996414 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0002.jpg.sift: 676.472902298 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0009.jpg: 2911.8719101 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0010.jpg: 2819.26393509 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python clas---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0012.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0012.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0012.jpg (799, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0003.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0003.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0013.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0013.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0013.jpg (800, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0014.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0014.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0014.jpg (631, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0015.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0015.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0015.jpg (646, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0004.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0004.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0016.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0016.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0016.jpg (727, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0017.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0017.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0017.jpg (668, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0005.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0005.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0018.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0018.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0018.jpg (590, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0019.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0019.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0019.jpg (320, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0020.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0020.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0020.jpg (283, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0006.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0006.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0021.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0021.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0021.jpg (183, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0022.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0022.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0022.jpg (429, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0023.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0023.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0023.jpg (470, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+sify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0011.jpg: 3035.25209427 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0012.jpg: 3026.5109539 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0003.jpg.sift: 721.395015717 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0013.jpg: 3071.57206535 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0014.jpg: 2987.72406578 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0015.jpg: 3044.87895966 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0004.jpg.sift: 788.470983505 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0016.jpg: 3004.77385521 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0017.jpg: 2955.93905449 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0005.jpg.sift: 706.686019897 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0018.jpg: 2850.03685951 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0019.jpg: 2593.4548378 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0020.jpg: 2604.91299629 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0006.jpg.sift: 707.416057587 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0021.jpg: 2464.85996246 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0022.jpg: 2790.2200222 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_fr---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0007.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0007.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0024.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0024.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0024.jpg (454, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0025.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0025.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0025.jpg (429, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0026.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0026.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0026.jpg (440, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0008.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0008.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0027.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0027.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0027.jpg (483, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0028.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0028.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0028.jpg (475, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0029.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0029.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0029.jpg (496, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0030.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0030.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0030.jpg (221, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0009.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0009.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0031.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0031.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0031.jpg (533, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0032.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0032.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0032.jpg (546, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0033.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0033.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0033.jpg (473, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0010.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0010.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0034.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0034.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0034.jpg (522, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0035.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0035.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0035.jpg (513, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0011.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0011.jpg.sift
+ame0023.jpg: 2699.20706749 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0007.jpg.sift: 702.359199524 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0024.jpg: 2729.7000885 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0025.jpg: 2715.75903893 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0026.jpg: 2664.32213783 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0008.jpg.sift: 714.390039444 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0027.jpg: 2835.07514 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0028.jpg: 2755.76496124 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0029.jpg: 2771.10910416 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0030.jpg: 2652.36902237 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0009.jpg.sift: 823.732852936 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0031.jpg: 2925.67896843 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0032.jpg: 2950.74987411 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0033.jpg: 2800.34995079 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0010.jpg.sift: 797.04618454 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0034.jpg: 2801.67603493 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0035.jpg: 2767.4369812 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-cl---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg (561, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0037.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0037.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0037.jpg (565, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0038.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0038.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0038.jpg (598, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0012.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0012.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0039.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0039.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0039.jpg (320, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0040.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0040.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0040.jpg (472, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0041.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0041.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0041.jpg (1258, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0013.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0013.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0042.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0042.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0042.jpg (794, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0043.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0043.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0043.jpg (495, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0044.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0044.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0044.jpg (1064, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0014.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0014.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0045.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0045.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0045.jpg (905, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0046.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0046.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0046.jpg (861, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0047.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0047.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0047.jpg (872, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0015.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0015.jpg.sift
+assifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0011.jpg.sift: 724.768877029 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg: 2837.89205551 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0037.jpg: 2915.79914093 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0038.jpg: 2924.06201363 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0012.jpg.sift: 705.514907837 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0039.jpg: 2784.13701057 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0040.jpg: 2885.57004929 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0041.jpg: 3569.20909882 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0013.jpg.sift: 750.427007675 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0042.jpg: 3322.38507271 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0043.jpg: 2900.00700951 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0044.jpg: 3393.81098747 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0014.jpg.sift: 711.11702919 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0045.jpg: 3249.8691082 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0046.jpg: 3108.15000534 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0047.jpg: 3140.07496834 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffl---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0048.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0048.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0048.jpg (835, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0049.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0049.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0049.jpg (677, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0050.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0050.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0050.jpg (675, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0051.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0051.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0051.jpg (655, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0016.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0016.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0016.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0016.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0052.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0052.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0052.jpg (680, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0053.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0053.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0053.jpg (380, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0017.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0017.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0054.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0054.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0054.jpg (609, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0055.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0055.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0055.jpg (615, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0056.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0056.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0056.jpg (238, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0018.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0018.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0057.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0057.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0057.jpg (138, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0058.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0058.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0058.jpg (94, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[10]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0019.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0019.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0059.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0059.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0059.jpg (61, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[10]
+e1/.ros/obj_detection_frame0015.jpg.sift: 749.278068542 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0048.jpg: 3227.65994072 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0049.jpg: 2911.20886803 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0050.jpg: 2913.97690773 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0051.jpg: 2966.62807465 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0016.jpg.sift: 714.960098267 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0016.jpg.sift: 723.181009293 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0052.jpg: 3015.86604118 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0053.jpg: 2665.62080383 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0017.jpg.sift: 742.701053619 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0054.jpg: 2835.60204506 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0055.jpg: 2830.919981 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0056.jpg: 2517.93193817 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0018.jpg.sift: 751.784086227 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0057.jpg: 2589.11991119 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0058.jpg: 2417.1860218 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0019.jpg.sift: 764.149904251 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0060.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0060.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0060.jpg (77, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[3]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0020.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0020.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0020.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0020.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0061.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0061.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0061.jpg (98, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0062.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0062.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0062.jpg (95, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[3]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0063.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0063.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0063.jpg (84, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0021.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0021.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0064.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0064.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0064.jpg (101, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[3]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0065.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0065.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0065.jpg (97, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0022.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0022.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0066.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0066.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0066.jpg (102, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[3]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0067.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0067.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0067.jpg (56, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[3]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0023.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0023.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0023.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0023.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0023.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0023.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0068.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0068.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0068.jpg (72, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0059.jpg: 2387.57586479 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0060.jpg: 2364.83502388 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0020.jpg.sift: 762.315988541 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0020.jpg.sift: 716.8841362 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0061.jpg: 2395.93505859 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0062.jpg: 2484.68995094 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0063.jpg: 2440.23799896 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0021.jpg.sift: 707.069158554 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0064.jpg: 2383.51392746 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0065.jpg: 2364.18199539 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0022.jpg.sift: 726.086139679 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0066.jpg: 2433.09187889 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0067.jpg: 2357.84101486 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0023.jpg.sift: 724.817037582 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0023.jpg.sift: 752.686023712 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0023.jpg.sift: 713.078975677 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0069.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0069.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0069.jpg (471, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0024.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0024.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0070.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0070.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0070.jpg (464, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0071.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0071.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0071.jpg (425, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0072.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0072.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0072.jpg (383, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0025.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0025.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0073.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0073.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0073.jpg (400, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0074.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0074.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0074.jpg (459, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0026.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0026.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0075.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0075.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0075.jpg (435, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0076.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0076.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0076.jpg (557, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0077.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0077.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0077.jpg (577, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0027.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0027.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0078.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0078.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0078.jpg (616, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0079.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0079.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0079.jpg (306, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0028.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0028.jpg.sift
+ -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0068.jpg: 2457.60393143 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0069.jpg: 2849.80297089 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0024.jpg.sift: 820.804834366 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0070.jpg: 2756.92105293 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0071.jpg: 2644.95301247 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0072.jpg: 2694.25702095 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0025.jpg.sift: 714.375019073 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0073.jpg: 2689.69321251 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0074.jpg: 2720.59798241 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0026.jpg.sift: 729.563951492 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0075.jpg: 2778.17201614 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0076.jpg: 2924.50881004 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0077.jpg: 3030.01999855 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0027.jpg.sift: 789.084911346 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0078.jpg: 3045.35412788 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0079.jpg: 2778.5961628 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0028.jpg.sift: 738.219976425 m---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0080.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0080.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0080.jpg (264, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0081.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0081.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0081.jpg (722, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0082.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0082.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0082.jpg (680, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0029.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0029.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0083.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0083.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0083.jpg (674, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0084.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0084.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0084.jpg (757, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0030.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0030.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0085.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0085.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0085.jpg (696, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0086.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0086.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0086.jpg (710, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0087.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0087.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0087.jpg (632, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0031.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0031.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0088.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0088.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0088.jpg (569, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0089.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0089.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0089.jpg (530, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0090.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0090.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0090.jpg (531, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0032.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0032.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0091.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0091.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0091.jpg (114, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0092.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0092.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0092.jpg (76, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[8]
+s
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0080.jpg: 2702.6181221 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0081.jpg: 3100.95191002 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0082.jpg: 3086.54403687 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0029.jpg.sift: 744.611978531 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0083.jpg: 3120.31984329 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0084.jpg: 3198.25387001 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0030.jpg.sift: 732.582092285 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0085.jpg: 3038.54298592 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0086.jpg: 3048.90990257 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0087.jpg: 2956.25805855 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0031.jpg.sift: 743.431806564 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0088.jpg: 2997.41888046 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0089.jpg: 2936.48695946 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0090.jpg: 3014.27197456 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0032.jpg.sift: 745.053052902 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0091.jpg: 2523.25797081 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python clas---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0093.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0093.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0093.jpg (50, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[20]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0033.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0033.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0094.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0094.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0094.jpg (191, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0095.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0095.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0095.jpg (246, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0034.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0034.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0096.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0096.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0096.jpg (254, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0097.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0097.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0097.jpg (274, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0035.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0035.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0098.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0098.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0098.jpg (114, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0099.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0099.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0099.jpg (45, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[19]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0100.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0100.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0100.jpg (155, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0100.jpg (155, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+sify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0092.jpg: 2504.64200974 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0093.jpg: 2437.4229908 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0033.jpg.sift: 744.937896729 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0094.jpg: 2507.47895241 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0095.jpg: 2517.08006859 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0034.jpg.sift: 728.524923325 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0096.jpg: 2581.25090599 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0097.jpg: 2580.29484749 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0035.jpg.sift: 719.426870346 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0098.jpg: 2503.87191772 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0099.jpg: 2347.91398048 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 741.733074188 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 737.900018692 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 797.288894653 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0100.jpg: 2428.34401131 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 737.21408844 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0100.jpg (155, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0100.jpg (155, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0100.jpg (155, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0100.jpg (155, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0100.jpg (155, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0100.jpg (155, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0100.jpg (155, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0101.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0101.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0101.jpg (385, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+obj_detection_frame0100.jpg: 785.803079605 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 731.708049774 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0100.jpg: 802.02293396 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 708.79817009 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0100.jpg: 781.017065048 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 766.309976578 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0100.jpg: 794.955968857 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 743.68596077 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0100.jpg: 873.409986496 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 730.2069664 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0100.jpg: 799.01599884 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 724.225997925 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0100.jpg: 810.503005981 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 724.446058273 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0100.jpg: 809.855937958 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 977.796077728 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0036.jpg.sift: 820.904016495 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detec---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0102.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0102.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0102.jpg (348, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0037.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0037.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0103.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0103.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0103.jpg (464, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0104.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0104.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0104.jpg (524, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0105.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0105.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0105.jpg (646, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0038.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0038.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0106.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0106.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0106.jpg (713, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0107.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0107.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0107.jpg (728, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0039.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0039.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0108.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0108.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0108.jpg (820, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0109.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0109.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0109.jpg (418, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0110.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0110.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0110.jpg (1062, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0040.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0040.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0111.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0111.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0111.jpg (1002, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0112.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0112.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0112.jpg (986, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0113.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0113.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0113.jpg (974, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+tion/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0101.jpg: 2834.10000801 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0102.jpg: 2897.44520187 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0037.jpg.sift: 795.480012894 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0103.jpg: 2945.80197334 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0104.jpg: 2962.6159668 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0105.jpg: 2990.47088623 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0038.jpg.sift: 732.471942902 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0106.jpg: 3018.7921524 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0107.jpg: 3081.05778694 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0039.jpg.sift: 729.96711731 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0108.jpg: 3105.56983948 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0109.jpg: 2788.62094879 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0110.jpg: 3436.78808212 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0040.jpg.sift: 730.287790298 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0111.jpg: 3245.71418762 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0112.jpg: 3220.19791603 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_o---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0041.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0041.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0114.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0114.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0114.jpg (782, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0115.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0115.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0115.jpg (1001, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0116.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0116.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0116.jpg (1043, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0042.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0042.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0117.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0117.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0117.jpg (1073, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0118.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0118.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0118.jpg (965, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0119.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0119.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0119.jpg (925, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0043.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0043.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0120.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0120.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0120.jpg (982, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0121.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0121.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0121.jpg (942, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0122.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0122.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0122.jpg (963, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[17]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0044.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0044.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0123.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0123.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0123.jpg (794, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0124.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0124.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0124.jpg (682, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0045.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0045.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0125.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0125.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0125.jpg (535, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+bj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0113.jpg: 3151.25393867 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0041.jpg.sift: 686.105966568 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0114.jpg: 3041.07189178 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0115.jpg: 3201.22122765 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0116.jpg: 3171.69690132 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0042.jpg.sift: 698.15993309 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0117.jpg: 3278.55801582 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0118.jpg: 3166.93091393 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0119.jpg: 3015.3169632 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0043.jpg.sift: 711.385965347 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0120.jpg: 3161.49091721 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0121.jpg: 3076.25198364 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0122.jpg: 3122.29299545 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0044.jpg.sift: 673.444986343 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0123.jpg: 3024.11389351 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0124.jpg: 2780.91883659 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0045.jpg.sift: 732.293128967 ms
+cd /home/ps---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0126.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0126.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0126.jpg (460, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[3]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0127.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0127.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0127.jpg (512, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0046.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0046.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0128.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0128.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0128.jpg (155, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[18]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0129.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0129.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0129.jpg (349, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0047.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0047.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0047.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0047.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0047.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0047.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0130.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0130.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0130.jpg (284, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[3]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0131.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0131.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0131.jpg (307, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[5]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0132.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0132.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0132.jpg (119, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[15]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0048.jpg.sift
+working on  /home/psawaffle1/.ros/obj_detection_frame0048.jpg.sift
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0133.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0133.jpg
+gathering sift features for /home/psawaffle1/.ros/obj_detection_frame0133.jpg (142, 128)
+---------------------
+## loading codebook from custom_obj_codebook.file
+---------------------
+## computing visual word histograms
+---------------------
+## write the histograms to file to pass it to the svm
+---------------------
+## test data with svm
+Scaling testing data...
+Testing...
+Output prediction: custom_obj_trainingdata.svm.prediction
+[10]
+---------------------
+## extract Sift features
+extracting Sift features
+calculating sift features for /home/psawaffle1/.ros/obj_detection_frame0134.jpg
+working on  /home/psawaffle1/.ros/obj_detection_frame0134.jpg
+awaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0125.jpg: 2733.5190773 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0126.jpg: 2709.05900002 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0127.jpg: 2689.96620178 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0046.jpg.sift: 678.607940674 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0128.jpg: 2381.1750412 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0129.jpg: 2694.50211525 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0047.jpg.sift: 684.22293663 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0047.jpg.sift: 722.911119461 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0047.jpg.sift: 712.294101715 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0130.jpg: 2509.73916054 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0131.jpg: 2630.52797318 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0132.jpg: 2308.94684792 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0048.jpg.sift: 773.27299118 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0133.jpg: 2436.41901016 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/minimal-bag-of-visual-words-image-classifier && python classify.py -c custom_obj_codebook.file -m custom_obj_trainingdata.svm.model /home/psawaffle1/.ros/obj_detection_frame0134.jpg: 1182.63602257 ms
+Error

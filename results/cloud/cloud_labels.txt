@@ -1,0 +1,47 @@
+Animal
+Backpack
+Bag
+Ball
+Bathroom cabinet
+Bench
+Boot
+Bottle
+Box
+Candle
+Car
+Ceiling fan
+Chair
+Chest of drawers
+Computer keyboard
+Computer monitor
+Desk
+Dog
+Door
+Flowerpot
+Footwear
+Furniture
+Glasses
+Handbag
+Hat
+Helmet
+Kitchen appliance
+Kitchenware
+Lighting
+Luggage & bags
+Man
+Mirror
+Nightstand
+Person
+Refrigerator
+Sandal
+Scissors
+Sculpture
+Shoe
+Skirt
+Table
+Tableware
+Television
+Tire
+Toy
+Vase
+Window

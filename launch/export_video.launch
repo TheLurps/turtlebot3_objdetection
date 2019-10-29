@@ -1,0 +1,10 @@
+<launch>
+  <node name="export_video" pkg="image_view" type="video_recorder" cwd="ROS_HOME">
+    <remap from="image" to="/camera/color/image_raw" />
+    <param name="fps" value="5" />
+    <param name="filename" value="obj_detection.avi" />
+    <param name="codec" value="MJPG" />
+    <param name="encoding" value="bgr8" />
+  </node>
+</launch>
+

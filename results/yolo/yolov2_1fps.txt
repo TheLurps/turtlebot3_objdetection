@@ -1,0 +1,258 @@
+/home/psawaffle1/.ros/obj_detection_frame0000.jpg: Predicted in 3.783913 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0001.jpg: Predicted in 3.824718 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0002.jpg: Predicted in 3.843171 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0003.jpg: Predicted in 3.862067 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0004.jpg: Predicted in 3.939395 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0005.jpg: Predicted in 3.945257 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0006.jpg: Predicted in 4.044740 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0007.jpg: Predicted in 4.040447 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0008.jpg: Predicted in 4.124819 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0009.jpg: Predicted in 4.085619 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0010.jpg: Predicted in 4.037138 seconds.
+bicycle: 67%
+bicycle,476,548,6,159
+/home/psawaffle1/.ros/obj_detection_frame0011.jpg: Predicted in 3.998364 seconds.
+cow: 87%
+cow,372,558,121,347
+car: 54%
+car,340,417,207,333
+/home/psawaffle1/.ros/obj_detection_frame0012.jpg: Predicted in 4.081998 seconds.
+cow: 54%
+cow,372,567,127,349
+/home/psawaffle1/.ros/obj_detection_frame0013.jpg: Predicted in 4.038668 seconds.
+cow: 79%
+cow,416,591,130,350
+/home/psawaffle1/.ros/obj_detection_frame0014.jpg: Predicted in 4.115433 seconds.
+person: 72%
+person,260,345,2,115
+/home/psawaffle1/.ros/obj_detection_frame0015.jpg: Predicted in 4.167603 seconds.
+person: 70%
+person,263,345,2,115
+/home/psawaffle1/.ros/obj_detection_frame0016.jpg: Predicted in 4.193901 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0017.jpg: Predicted in 4.163722 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0018.jpg: Predicted in 4.250088 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0019.jpg: Predicted in 4.231143 seconds.
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0000.jpg: 5238.8010025 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0001.jpg: 5389.04094696 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0002.jpg: 5373.47102165 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0003.jpg: 5390.82813263 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0004.jpg: 5489.85290527 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0005.jpg: 5503.11183929 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0006.jpg: 5655.21502495 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0007.jpg: 5620.57995796 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0008.jpg: 5767.26603508 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0009.jpg: 5746.03796005 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0010.jpg: 5643.75305176 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0011.jpg: 5609.98988152 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0012.jpg: 5734.95006561 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0013.jpg: 5676.13101006 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0014.jpg: 5775.33197403 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0015.jpg: 5795.17602921 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0016.jpg: 5912.21809387 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0017.jpg: 5825.47593117 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0018.jpg: 6008.91304016 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj/home/psawaffle1/.ros/obj_detection_frame0020.jpg: Predicted in 4.250419 seconds.
+dog: 88%
+dog,145,609,211,343
+/home/psawaffle1/.ros/obj_detection_frame0021.jpg: Predicted in 4.366783 seconds.
+dog: 52%
+dog,154,591,163,332
+/home/psawaffle1/.ros/obj_detection_frame0022.jpg: Predicted in 4.432620 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0023.jpg: Predicted in 4.418062 seconds.
+aeroplane: 55%
+aeroplane,282,421,133,317
+/home/psawaffle1/.ros/obj_detection_frame0024.jpg: Predicted in 4.437209 seconds.
+aeroplane: 56%
+aeroplane,271,432,134,314
+/home/psawaffle1/.ros/obj_detection_frame0025.jpg: Predicted in 4.439107 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0026.jpg: Predicted in 4.367552 seconds.
+aeroplane: 60%
+aeroplane,260,468,102,317
+/home/psawaffle1/.ros/obj_detection_frame0027.jpg: Predicted in 4.326963 seconds.
+cow: 63%
+cow,271,460,109,338
+/home/psawaffle1/.ros/obj_detection_frame0028.jpg: Predicted in 4.462935 seconds.
+cow: 68%
+cow,224,425,108,332
+motorbike: 68%
+motorbike,224,435,87,330
+/home/psawaffle1/.ros/obj_detection_frame0029.jpg: Predicted in 4.475777 seconds.
+cow: 86%
+cow,273,478,108,335
+motorbike: 88%
+motorbike,275,486,92,330
+/home/psawaffle1/.ros/obj_detection_frame0030.jpg: Predicted in 4.485621 seconds.
+truck: 56%
+truck,0,546,217,348
+aeroplane: 94%
+aeroplane,17,197,88,297
+/home/psawaffle1/.ros/obj_detection_frame0031.jpg: Predicted in 4.360407 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0032.jpg: Predicted in 4.394073 seconds.
+parking meter: 85%
+parking meter,218,410,100,301
+/home/psawaffle1/.ros/obj_detection_frame0033.jpg: Predicted in 4.484277 seconds.
+parking meter: 86%
+parking meter,218,412,103,302
+parking meter: 72%
+parking meter,-3,522,-71,392
+/home/psawaffle1/.ros/obj_detection_frame0034.jpg: Predicted in 4.416188 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0035.jpg: Predicted in 4.577662 seconds.
+parking meter: 99%
+parking meter,74,269,88,320
+/home/psawaffle1/.ros/obj_detection_frame0036.jpg: Predicted in 4.663091 seconds.
+parking meter: 82%
+parking meter,-7,179,80,326
+/home/psawaffle1/.ros/obj_detection_frame0037.jpg: Predicted in 4.591294 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0038.jpg: Predicted in 4.422206 seconds.
+person: 56%
+person,186,343,167,328
+/home/psawaffle1/.ros/obj_detection_frame0039.jpg: Predicted in 4.350466 seconds.
+_detection_frame0019.jpg: 5945.23596764 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0020.jpg: 5929.33797836 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0021.jpg: 6104.69102859 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0022.jpg: 6177.00505257 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0023.jpg: 6246.21295929 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0024.jpg: 6209.09500122 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0025.jpg: 6215.28100967 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0026.jpg: 6082.38315582 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0027.jpg: 6072.63088226 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0028.jpg: 6240.63396454 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0029.jpg: 6265.17415047 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0030.jpg: 6258.89921188 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0031.jpg: 6132.26008415 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0032.jpg: 6289.36600685 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0033.jpg: 6231.92596436 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0034.jpg: 6294.54708099 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0035.jpg: 6407.31692314 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0036.jpg: 6648.41103554 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0037.jpg: 6414.95800018 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0038.jpg: 6147.42517471 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-/home/psawaffle1/.ros/obj_detection_frame0040.jpg: Predicted in 4.735548 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0041.jpg: Predicted in 4.855451 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0042.jpg: Predicted in 4.704850 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0043.jpg: Predicted in 4.581597 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0044.jpg: Predicted in 4.571921 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0045.jpg: Predicted in 4.456532 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0046.jpg: Predicted in 4.462441 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0047.jpg: Predicted in 4.604676 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0048.jpg: Predicted in 4.545930 seconds.
+person: 65%
+person,40,149,175,308
+/home/psawaffle1/.ros/obj_detection_frame0049.jpg: Predicted in 4.457209 seconds.
+person: 85%
+person,43,214,177,333
+/home/psawaffle1/.ros/obj_detection_frame0050.jpg: Predicted in 4.317238 seconds.
+person: 82%
+person,45,216,174,329
+/home/psawaffle1/.ros/obj_detection_frame0051.jpg: Predicted in 4.397014 seconds.
+person: 69%
+person,45,207,174,333
+/home/psawaffle1/.ros/obj_detection_frame0052.jpg: Predicted in 4.399804 seconds.
+elephant: 63%
+elephant,58,197,168,326
+person: 75%
+person,41,191,174,332
+/home/psawaffle1/.ros/obj_detection_frame0053.jpg: Predicted in 4.590260 seconds.
+person: 69%
+person,142,286,150,347
+/home/psawaffle1/.ros/obj_detection_frame0054.jpg: Predicted in 4.626528 seconds.
+train: 63%
+train,149,274,129,375
+/home/psawaffle1/.ros/obj_detection_frame0055.jpg: Predicted in 4.621451 seconds.
+parking meter: 85%
+parking meter,426,593,132,311
+train: 54%
+train,142,284,119,386
+/home/psawaffle1/.ros/obj_detection_frame0056.jpg: Predicted in 4.570805 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0057.jpg: Predicted in 4.536307 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0058.jpg: Predicted in 4.368985 seconds.
+parking meter: 80%
+parking meter,-10,247,39,357
+/home/psawaffle1/.ros/obj_detection_frame0059.jpg: Predicted in 4.464101 seconds.
+parking meter: 87%
+parking meter,-64,312,7,391
+tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0039.jpg: 6062.51096725 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0040.jpg: 6487.60294914 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0041.jpg: 6859.82108116 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0042.jpg: 6575.31905174 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0043.jpg: 6380.23805618 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0044.jpg: 6419.59214211 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0045.jpg: 6236.31381989 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0046.jpg: 6199.60713387 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0047.jpg: 6421.66805267 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0048.jpg: 6353.51395607 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0049.jpg: 6358.30283165 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0050.jpg: 6043.57910156 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0051.jpg: 6159.83700752 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0052.jpg: 6156.07404709 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0053.jpg: 6397.25899696 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0054.jpg: 6442.65198708 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0055.jpg: 6454.00094986 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0056.jpg: 6406.82506561 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0057.jpg: 6375.5710125 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0058.jpg: 6112.20908165 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect c/home/psawaffle1/.ros/obj_detection_frame0060.jpg: Predicted in 4.228248 seconds.
+parking meter: 100%
+parking meter,13,424,61,385
+/home/psawaffle1/.ros/obj_detection_frame0061.jpg: Predicted in 4.305943 seconds.
+parking meter: 100%
+parking meter,64,445,52,368
+/home/psawaffle1/.ros/obj_detection_frame0062.jpg: Predicted in 4.364238 seconds.
+parking meter: 100%
+parking meter,69,472,60,388
+/home/psawaffle1/.ros/obj_detection_frame0063.jpg: Predicted in 4.206118 seconds.
+parking meter: 100%
+parking meter,103,517,49,394
+/home/psawaffle1/.ros/obj_detection_frame0064.jpg: Predicted in 4.195578 seconds.
+parking meter: 100%
+parking meter,128,533,45,371
+/home/psawaffle1/.ros/obj_detection_frame0065.jpg: Predicted in 4.345011 seconds.
+parking meter: 100%
+parking meter,131,532,45,370
+/home/psawaffle1/.ros/obj_detection_frame0066.jpg: Predicted in 4.328008 seconds.
+parking meter: 100%
+parking meter,130,534,44,372
+/home/psawaffle1/.ros/obj_detection_frame0067.jpg: Predicted in 4.377521 seconds.
+parking meter: 100%
+parking meter,-14,370,22,384
+truck: 65%
+truck,161,650,276,366
+/home/psawaffle1/.ros/obj_detection_frame0068.jpg: Predicted in 4.297157 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0069.jpg: Predicted in 4.327104 seconds.
+train: 73%
+train,457,597,133,369
+/home/psawaffle1/.ros/obj_detection_frame0070.jpg: Predicted in 4.214755 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0071.jpg: Predicted in 4.244329 seconds.
+person: 81%
+person,419,554,147,342
+/home/psawaffle1/.ros/obj_detection_frame0072.jpg: Predicted in 4.264419 seconds.
+person: 88%
+person,400,542,160,342
+/home/psawaffle1/.ros/obj_detection_frame0073.jpg: Predicted in 4.146028 seconds.
+person: 51%
+person,407,504,181,315
+/home/psawaffle1/.ros/obj_detection_frame0074.jpg: Predicted in 4.227831 seconds.
+/home/psawaffle1/.ros/obj_detection_frame0075.jpg: Predicted in 4.379077 seconds.
+person: 85%
+person,378,484,186,308
+/home/psawaffle1/.ros/obj_detection_frame0076.jpg: Predicted in 4.334219 seconds.
+ustom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0059.jpg: 6249.83310699 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0060.jpg: 6067.85082817 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0061.jpg: 6000.6840229 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0062.jpg: 6099.11394119 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0063.jpg: 5877.50601768 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0064.jpg: 5866.74284935 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0065.jpg: 6070.45602798 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0066.jpg: 6049.59583282 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0067.jpg: 6077.56114006 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0068.jpg: 6013.88311386 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0069.jpg: 6144.42896843 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0070.jpg: 5868.80922318 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0071.jpg: 5939.03779984 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0072.jpg: 5958.65797997 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0073.jpg: 5789.39509392 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0074.jpg: 5914.29805756 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0075.jpg: 6104.61187363 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0076.jpg: 6040.77410698 ms
+cd /home/psawaffle1/catkin_ws/src/obj_detection/darknet && ./darknet detect custom/yolov2-tiny-deploy.cfg custom/yolov2-tiny_40000.weights /home/psawaffle1/.ros/obj_detection_frame0077.jpg: 5390.43402672 ms
+Error

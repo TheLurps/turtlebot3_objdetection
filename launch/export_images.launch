@@ -1,0 +1,8 @@
+<launch>
+  <node name="export_images" pkg="image_view" type="extract_images" cwd="ROS_HOME">
+    <remap from="image" to="/camera/color/image_raw" />
+    <param name="sec_per_frame" value="1.0" />
+    <param name="filename_format" value="obj_detection_frame%04d.jpg" />
+  </node>
+</launch>
+
